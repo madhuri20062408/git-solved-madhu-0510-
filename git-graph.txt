@@ -1,0 +1,28 @@
+* 43b3000 (HEAD -> main, origin/main) docs: Add changelog
+* 5f6127e docs: Add Git Mastery Challenge reflection report
+* d13f897 docs: Add Git Mastery Challenge reflection report
+| * d2cefbf (feature/another-feature) Restore reverted changes
+| | * d8195cc (origin/feature/another-feature) Restore reverted changes
+| | * 8c365f7 Revert "Bad commit"
+| | * b6e8c2c Bad commit
+| |/  
+| * b2e75ec feat: Add test feature
+|/  
+* 437f0ae (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 6219554 feat: Add new feature
+* c98fc83 docs: Add FAQ section
+| *   b825aba (refs/stash) On feature/new-feature: WIP: changes to README.md
+| |\  
+| | * ee89c73 index on feature/new-feature: a56dbed feat: Add new feature
+| |/  
+| * a56dbed (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   b9b4476 Resolved README conflict with final unified version
+|\  
+| * 02011a5 (instructor/dev, dev) updating dev
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
