@@ -1,7 +1,7 @@
 # 🧠 My Git Mastery Challenge Journey
 
 ## Student Information
-- **Name:** Madhuri
+- **Name:** Ch.Madhuri
 - **Student ID:** 23A91A0510
 - **Repository:** https://github.com/madhuri20062408/git-solved-madhu-0510-
 - **Date Started:** Oct 27, 2025
